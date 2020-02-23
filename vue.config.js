@@ -1,4 +1,3 @@
-const webpack = require('webpack')
 const path = require('path')
 const appData = require('./data.json')
 const seller = appData.seller
