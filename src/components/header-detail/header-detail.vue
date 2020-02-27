@@ -36,9 +36,9 @@
 </template>
 
 <script>
-  import popupMixin from 'common/mixins/popup'
   import Star from 'components/star/star'
   import SupportIco from 'components/support-ico/support-ico'
+  import popupMixin from 'common/mixins/popup'
 
   export default {
     name: 'header-detail',
